@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on JS backend framework /n
+🔭 Currently working on JS backend framework
 😎 Learner with pace
 🧠 Half genius and half brain rotted
 
