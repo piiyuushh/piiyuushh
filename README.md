@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Currently working on backend with Express JS<br>👯 Looking forward to more paid projects<br>🤝 Also Seeking recommendations<br>⚡ Learner with pace
 
 
